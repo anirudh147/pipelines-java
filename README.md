@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/M1052916DemoPROJ/Project-1/_apis/build/status/anirudh147.pipelines-java?branchName=master)](https://dev.azure.com/M1052916DemoPROJ/Project-1/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
